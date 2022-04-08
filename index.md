@@ -11,7 +11,7 @@ This is another line.
 
 Bold text looks **bold**
 
-Italicized text is **italicized*
+Italicized text is *italicized*
 
 ***Damn this is bold and italicized.***
 

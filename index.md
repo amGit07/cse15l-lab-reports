@@ -1,5 +1,3 @@
-Hello world!
-
 # Index
 
 This is the index.
@@ -29,3 +27,9 @@ List of lists
 2. are
 3. doing
 4. iffy
+
+This page is *new as hell*.
+
+Here's some new bold writing.
+
+**DAYUM**

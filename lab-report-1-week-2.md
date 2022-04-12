@@ -112,3 +112,11 @@ Below are the steps needed for account set-up followed by screenshots depicting 
     ![SSH Image](SSHImage.png)
 
 6. Optimizing Remote Running
+
+    - Here is one way to make remote running more pleasant. 
+
+    - You can fit the ls command on the same line as where you are logging into your *ieng6* account
+
+    - This saves space and time.
+
+    ![RemoteRunning](RemoteRunning.png)

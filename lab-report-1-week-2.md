@@ -61,7 +61,7 @@ Below are the steps needed for account set-up followed by screenshots depicting 
 
     - The resulting image should look like this:
 
-    ![Commandsd-lslat](Commandsd-lslat.png)
+    ![CommandsCd-lslat](CommandsCd-lslat.png)
     ![CommandsLS-A](CommandsLS-A.png)
     ![CommandsCPandCat](CommandsCPandCat.png)
 
@@ -76,7 +76,9 @@ Below are the steps needed for account set-up followed by screenshots depicting 
     
         where **zz** is the three letter to your specific account name and **WhereAmI.java** is any working file.
         
-    - You will be prompted for your password which you will then enter. Log into your *ieng6* account again and run the command ***ls***. This should show the file in the home directory now and you can run it on your *ieng6* accont using javac and java.
+    - You will be prompted for your password which you will then enter. Log into your *ieng6* account again and run the command ***ls***. This should show the file in the home directory now and you can run it on your *ieng6* accont using javac and java. Result should look like so:
+
+    ![SCP Image](SCPImage.png)
 
 
 5. Setting an SSH Key
